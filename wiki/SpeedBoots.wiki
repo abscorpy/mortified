@@ -1,0 +1,1 @@
+A pair of boots that make the wearer run faster.
