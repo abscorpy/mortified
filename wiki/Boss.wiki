@@ -1,0 +1,6 @@
+A boss is a powerful [Creature creature] that usually must be confronted in an [Arena arena]. Bosses:
+
+ * [Dragon]
+ * [Hydra]
+ * [Kraken]
+ * [Spider]
