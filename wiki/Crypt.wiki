@@ -1,1 +1,1 @@
-Crypts are pathways into the [Catacombs catacombs]. Each crypt must be opened from the outside before it can be used to enter and leave the catacombs.
+Crypts are pathways into the [Catacombs catacombs]. Before any particular crypt can be used to enter or leave the catacombs, it must be opened from the outside.
