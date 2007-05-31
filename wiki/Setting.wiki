@@ -1,5 +1,1 @@
-#summary The setting of the game.
-
-= Setting =
-
-The game is set in a steampunk fantasy world.
+Mortified is set in a steampunk fantasy world. Gunpowder and firearms are available but mostly in primitive and unreliable form.
