@@ -1,0 +1,5 @@
+#summary The setting of the game.
+
+= Setting =
+
+The game is set in a steampunk fantasy world.
