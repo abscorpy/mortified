@@ -1,4 +1,4 @@
-An arena is a special place where a boss lurks. Design goals for arenas:
+An arena is a special place where a [boss] lurks. Design goals for arenas:
 
  * Reinforce the style and atmosphere of the boss.
  * Play a part in the boss fight.
