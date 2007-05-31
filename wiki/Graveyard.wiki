@@ -1,1 +1,1 @@
-The hero can bury hydra teeth here to create skeletons. Necromancers and the undead heal faster at graveyards. Some graveyards feature crypts that are pathways into the catacombs.
+The [Hero hero] can bury [HydraTooth hydra teeth] here to raise [Skeleton skeletons]. Necromancers and the [Undead undead] heal faster at graveyards. Some graveyards feature [Crypt crypts] that are pathways into the [Catacombs catacombs].
