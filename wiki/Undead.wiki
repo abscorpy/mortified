@@ -1,0 +1,5 @@
+The undead are [Creature creatures] that live on after death. Undead:
+
+ * [Ghost]
+ * [Skeleton]
+ * [Zombie]
