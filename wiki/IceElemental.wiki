@@ -1,0 +1,1 @@
+A magically animated [Creature creature] that appears when a body of water is completely frozen by the [FrostBite Frost Bite] spell. The size and power of the ice elemental depends on the amount of water frozen.
