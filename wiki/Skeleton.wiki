@@ -1,1 +1,2 @@
+#labels GameDesign,Creature,Undead
 A skeleton is a [BonePile bone pile] possessed by a [Ghost ghost].
