@@ -1,4 +1,4 @@
-#summary A practitioner of necromancy.
+#summary Wizard practicing necromancy.
 #labels Wizard,Magic,Necromancy,GameDesign
 
 A [Wizard wizard] skilled in the art of [Necromancy necromancy].
