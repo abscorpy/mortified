@@ -1,0 +1,2 @@
+#summary Armor piece protecting the head.
+#labels GameDesign,Helm,ArmorPiece,Stub
