@@ -1,7 +1,7 @@
 #summary Armor piece protecting the head.
 #labels GameDesign
 
-A helm is an armor piece protecting the head.
+A helm is an [ArmorPiece armor piece] protecting the head.
 
 See also:
  * [DragonScaleHelm Dragon scale helm]
