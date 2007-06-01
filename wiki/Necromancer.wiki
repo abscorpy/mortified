@@ -1,3 +1,4 @@
 #summary A practitioner of necromancy.
+#labels Wizard,Magic,Necromancy
 
 A [Wizard wizard] skilled in the art of [Necromancy necromancy].
