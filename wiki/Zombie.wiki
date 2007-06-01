@@ -1,2 +1,2 @@
 #labels GameDesign
-A zombie is an [Undead undead] [Corpse corpse]. Zombies decay over time, becoming [Skeleton skeletons] once completely decayed.
+A zombie is an [Undead undead] [Corpse corpse]. Zombies decay over time, becoming [Skeleton skeletons] when completely decayed.
