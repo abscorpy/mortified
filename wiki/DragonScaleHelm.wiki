@@ -1,2 +1,2 @@
-#labels DragonScales,Helm,Channeling,GameDesign
-This [Helm helm] is forged from [DragonScales dragon scales]. It channels magic as a breath weapon.
+#labels GameDesign
+A [Helm helm] forged from [DragonScales dragon scales]. It [Channeling channels] [Magic magic] as a breath weapon.
