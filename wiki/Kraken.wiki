@@ -1,4 +1,4 @@
-#summary Many-armed boss.
+#summary Giant squid.
 #labels GameDesign,Creature,Monster,Boss
 
 An underwater, many-armed, squid-like, ink-firing [Boss boss]. The kraken spawns miniature versions of itself. The hero kills it by severing all arms. (The severed arms bleed, attracting sharks?) The [Arena arena] is near a shore or on the bottom of the sea. The arena could contain a shipwreck. The kraken tears down platforms and throws boulders with its arms.
