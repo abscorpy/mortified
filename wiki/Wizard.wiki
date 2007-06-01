@@ -1,1 +1,4 @@
-A person skilled in the use of [Magic magic].
+A person skilled in the use of [Magic magic]. Categories of wizards:
+
+ * Elementalist
+ * Necromancer
