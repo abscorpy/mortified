@@ -1,0 +1,2 @@
+#summary Reanimated skeletal remains.
+#labels Stub,GameDesign
