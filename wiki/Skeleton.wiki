@@ -1,2 +1,4 @@
-#labels GameDesign,Undead
-A skeleton is a [BonePile bone pile] possessed by a [Ghost ghost].
+#labels GameDesign,Disambiguation
+Disambiguation:
+ * [UndeadSkeleton Undead skeleton]
+ * [SkeletalRemains Skeletal remains]
