@@ -1,1 +1,2 @@
+#labels GameDesign,Undead,Creature,Necromancy,Possession
 A zombie is a [Corpse corpse] possessed by a [Ghost ghost].
