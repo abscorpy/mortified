@@ -1,1 +1,2 @@
+#labels GameDesign,Item,Corpse
 A bone pile is a decayed [Corpse corpse]. It becomes a [Skeleton skeleton] if it is possessed by a [Ghost ghost].
