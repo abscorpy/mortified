@@ -1,6 +1,7 @@
-#labels Magic,Necromancy,Undead,Creature,GameDesign
-The undead are [Creature creatures] that live on after death. Undead:
+#labels GameDesign
+The undead are [Creature creatures] that live on after death.
 
+See also:
  * [Ghost]
  * [Mummy]
  * [Skeleton]
