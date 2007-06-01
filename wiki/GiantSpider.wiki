@@ -1,2 +1,2 @@
-#labels Spider,Boss,GameDesign,Creature,Monster
+#labels GameDesign
 A many-legged [Boss boss] that crawls on the walls and in the ceiling. She fires webs and lays [SpiderEgg spider eggs]. Small spiders hatch from the eggs. She tears down platforms with her webs. Treasure: [SpiderSilk Spider silk].
