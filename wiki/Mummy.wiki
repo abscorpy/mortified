@@ -1,4 +1,4 @@
-#summary Enbalmed undead.
+#summary Embalmed undead.
 #labels GameDesign
 
-A mummy is an [Undead undead] that has been [Enbalming enbalmed] to halt decay.
+A mummy is an [Undead undead] that has been [Embalming embalmed] to halt decay.
