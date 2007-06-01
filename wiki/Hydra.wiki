@@ -1,3 +1,4 @@
+#labels GameDesign,Boss,Creature,Monster,Hydra
 A many-headed, poison-breathing, dragon-like boss. The hero kills it by severing all of its heads. Each time a head is severed, the hydra grows one, two, or three new heads. The likelihood of growing a greater number of heads increases as the number of heads left decreases. The hero can destroy the severed neck in order to stop the new heads from growing.
 
 The arena contains water. The hero could move around on platforms above the water. Treasure: Hydra Scales, Hydra Teeth, and Golden Fleece.
