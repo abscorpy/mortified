@@ -1,4 +1,4 @@
 #summary Halts decay of a corpse.
 #labels GameDesign
 
-Embalming is a treatment halting further decay in a corpse. It must be carried out in a [Workshop workshop] and requires [SpiderSilk spider silk] for wrapping the corpse afterwards.
+Embalming is a treatment halting further decay of a corpse. The treatment must be carried out in a [Workshop workshop] and requires [SpiderSilk spider silk] for wrapping the corpse afterwards.
