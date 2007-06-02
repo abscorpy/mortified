@@ -1,1 +1,6 @@
-A pair of heavy metal boots that make their wearer sink like a rock in water, enabling him to walk around on the bottom. They are similar to the Iron Boots in _Zelda: Ocarina of Time_ and the Metal Cap in _Super Mario 64_.
+#summary Heavy metal boots
+#labels GameDesign
+
+A pair of heavy metal boots that make their wearer sink like a rock in water,
+enabling him to walk around on the bottom. They are similar to the Iron Boots
+in _Zelda: Ocarina of Time_ and the Metal Cap in _Super Mario 64_.

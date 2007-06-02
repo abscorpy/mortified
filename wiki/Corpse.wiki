@@ -1,1 +1,5 @@
-A corpse is a dead body. It can be possessed by a [Ghost ghost] and become a [Zombie zombie]. Corpses decay into [BonePile bone piles].
+#summary Dead body
+#labels GameDesign
+
+A corpse is a dead body. It can be possessed by a [Ghost ghost] and become a
+[Zombie zombie]. Corpses rot and become [SkeletalRemains skeletal remains].

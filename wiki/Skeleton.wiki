@@ -1,4 +1,5 @@
 #labels GameDesign,Disambiguation
+
 Disambiguation:
- * [UndeadSkeleton Undead skeleton]
- * [SkeletalRemains Skeletal remains]
+  * [UndeadSkeleton Undead skeleton]
+  * [SkeletalRemains Skeletal remains]

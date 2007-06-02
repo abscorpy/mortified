@@ -1,2 +1,2 @@
-#summary Undead dragon.
+#summary Undead dragon
 #labels GameDesign,Stub

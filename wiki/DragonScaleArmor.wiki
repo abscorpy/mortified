@@ -1,1 +1,4 @@
-This armor is forged from dragon scales. It protects the wearer against fire.
+#summary Body armor made of dragon scales
+#labels GameDesign
+
+This body armor is made of dragon scales. It protects against fire.

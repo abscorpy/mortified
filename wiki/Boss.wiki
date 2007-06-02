@@ -1,5 +1,10 @@
-A boss is a powerful [Creature creature] that usually must be confronted in an [Arena arena]. Bosses:
+#summary Powerful creature
+#labels GameDesign
 
+A boss is a powerful [Creature creature] that usually must be confronted in an
+[Arena arena].
+
+See also:
  * [Dragon]
  * [Hydra]
  * [Kraken]

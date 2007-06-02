@@ -1,3 +1,6 @@
+#summary Home of boss
+#labels GameDesign
+
 An arena is a special place where a [Boss boss] lurks. Design goals for arenas:
 
  * Reinforce the style and atmosphere of the boss.

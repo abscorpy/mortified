@@ -1,1 +1,6 @@
-Dragon scales are incredibly tough and offer great protection against fire. A skilled smith can make [DragonScaleArmor armor] or a [DragonScaleHelm helm] from the dragon scales.
+#summary Protect against fire
+#labels GameDesign
+
+Dragon scales are incredibly tough and offer great protection against fire.
+Smiths can make [DragonScaleArmor armors] or [DragonScaleHelm helms] from
+dragon scales.

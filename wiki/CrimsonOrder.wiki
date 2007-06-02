@@ -1,1 +1,4 @@
+#summary Secret society based in the catacombs
+#labels GameDesign,Plot
+
 The Crimson Order is an ancient secret society based in the catacombs.

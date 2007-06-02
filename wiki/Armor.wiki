@@ -1,0 +1,6 @@
+#summary Disambiguation of armor
+#labels GameDesign,Disambiguation
+
+Disambiguation:
+  * [ArmorPiece Armor piece]
+  * [BodyArmor Body armor]

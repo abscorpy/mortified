@@ -1,1 +1,9 @@
+#summary Protects a part of the body
 #labels GameDesign,Stub
+
+See also:
+  * [BodyArmor Body armor]
+  * [Boots]
+  * [Cloak]
+  * [Gloves]
+  * [Helm]
