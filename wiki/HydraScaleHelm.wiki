@@ -1,5 +1,4 @@
-#summary Helm for breathing underwater
+#summary Helm for underwater breathing
 #labels GameDesign
 
-This helm is forged from hydra scales. It allows the wearer to breathe
-underwater.
+A [Helm helm] of [HydraScales hydra scales] providing the ability to breathe underwater.
