@@ -1,4 +1,4 @@
-#summary Armor piece protecting the head.
+#summary Armor piece protecting the head
 #labels GameDesign
 
 A helm is an [ArmorPiece armor piece] protecting the head.
