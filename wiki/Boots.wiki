@@ -1,4 +1,5 @@
 #summary Armour pieces protecting the feet
+#labels Stub,GameDesign
 
 Boots:
 
