@@ -1,4 +1,4 @@
-#summary Monster with eight legs
+#summary Web mistress
 #labels GameDesign
 
 A many-legged [Boss boss] that crawls on the walls and in the ceiling. She
