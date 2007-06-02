@@ -1,4 +1,4 @@
-#summary Embalmed undead.
+#summary Embalmed undead
 #labels GameDesign
 
 A mummy is an [Undead undead] that has been [Embalming embalmed] to halt decay. Mummies are much stronger than [Zombie zombies]. They are weak against fire. Mummies can be [Reanimation raised] from [EmbalmedCorpse embalmed corpses] or created by embalming a zombie.
