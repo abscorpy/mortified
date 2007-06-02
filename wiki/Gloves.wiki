@@ -1,2 +1,3 @@
-#summary Armour piece protecting the hands
+#summary Armour pieces protecting the hands
+
 #labels Stub,GameDesign

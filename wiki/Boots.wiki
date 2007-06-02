@@ -1,0 +1,12 @@
+#summary Armour pieces protecting the feet
+
+#labels Stub,GameDesign
+
+Boots:
+
+  * [DivingBoots Diving boots]
+  * [HydraScaleBoots Hydra scale boots]
+  * [JumpingBoots Jumping boots]
+  * [RocketBoots Rocket boots]
+  * [SpeedBoots Speed boots]
+  * [SpiderSilkBoots Spider silk boots]
