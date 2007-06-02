@@ -1,3 +1,5 @@
+#labels Stub,GameDesign
+
 Categories of creatures:
 
  * [Animal]
