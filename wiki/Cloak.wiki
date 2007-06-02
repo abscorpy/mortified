@@ -1,0 +1,7 @@
+#summary Worn over armor
+#labels GameDesign,Stub
+
+Cloaks:
+
+  * [GoldenFleece Golden fleece]
+  * [SpiderSilkCloak Spider silk cloak]
