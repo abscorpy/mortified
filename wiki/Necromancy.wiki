@@ -1,4 +1,4 @@
-#summary Forbidden magic dealing with the dead.
+#summary Forbidden magic dealing with the dead
 #labels GameDesign
 
 Necromancy is a school of [Magic magic] dealing with the dead. It is generally considered evil and forbidden. [Wizard Wizards] practicing necromancy are called [Necromancer necromancers].
