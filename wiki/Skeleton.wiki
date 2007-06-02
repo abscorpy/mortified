@@ -1,5 +1,7 @@
+#summary Disambiguation of skeleton
 #labels GameDesign,Disambiguation
 
 Disambiguation:
+
   * [UndeadSkeleton Undead skeleton]
   * [SkeletalRemains Skeletal remains]
