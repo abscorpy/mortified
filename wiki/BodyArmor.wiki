@@ -1,0 +1,2 @@
+#summary Armor piece protecting the body
+#labels GameDesign,Stub
