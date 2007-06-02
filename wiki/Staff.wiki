@@ -1,1 +1,5 @@
-A powerful staff that amplifies and channels spell particles as a narrow beam. It is hooked like a swineherd staff, allowing its wielder to swing from ledges, branches, and similar.
+#labels GameDesign
+
+A powerful staff that amplifies and [Channeling channels] magic as a narrow
+beam. It is hooked like a swineherd staff, allowing its wielder to swing from
+ledges, branches, and similar.

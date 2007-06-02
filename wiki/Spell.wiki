@@ -1,4 +1,6 @@
-All spells are particle-based.
+#labels GameDesign,Stub
+
+Spells:
 
  * [FrostBite Frost Bite]
  * [WakeUpCall Wake Up Call]

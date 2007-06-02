@@ -1,1 +1,7 @@
-A container for spell particles. The skulls can be filled with spell particles and thrown as grenades. Particle decay is halted while the particles are inside a skull, though they slowly but visibly leak out over time. The skull explodes on impact, firing the particles in all directions. The skull is consumed in the process, so the thrower must stock up with new skulls regularly.
+#labels GameDesign
+
+A container for spell particles. The skulls can be filled with spell particles
+and thrown as grenades. Particle decay is halted while the particles are inside
+a skull, though they slowly but visibly leak out over time. The skull explodes
+on impact, firing the particles in all directions. The skull is consumed in the
+process, so the thrower must stock up with new skulls regularly.

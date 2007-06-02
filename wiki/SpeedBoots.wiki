@@ -1,1 +1,4 @@
+#summary Boots for running faster
+#labels GameDesign
+
 A pair of boots that make the wearer run faster.

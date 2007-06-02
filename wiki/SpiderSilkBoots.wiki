@@ -1,1 +1,5 @@
-These boots allow the wearer to walk on walls and in the ceiling. They drain spell points while their power is used.
+#summary Boots for walking on walls
+#labels GameDesign
+
+Boots of [SpiderSilk spider silk] allow the wearer to walk on walls and in the
+ceiling. The boots drain magic while their power is active.

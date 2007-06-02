@@ -1,4 +1,7 @@
-Creature categories:
+Categories of creatures:
 
+ * [Animal]
  * [Boss]
+ * [Hero]
+ * [Monster]
  * [Undead]

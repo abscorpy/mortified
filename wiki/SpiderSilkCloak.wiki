@@ -1,1 +1,6 @@
-This cloak slows falls so that the wearer is not hurt. It drains spell points while its power is used.
+#summary Cloak slowing falls
+#labels GameDesign
+
+A cloak of [SpiderSilk spider silk] that can slow falls. The wearer lands
+softly after falling and is not hurt. The cloak drains magic while its power is
+active.
