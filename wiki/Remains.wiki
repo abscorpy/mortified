@@ -1,0 +1,7 @@
+#summary Corporal remains of a creature
+
+Remains:
+
+  * [SkeletalRemains Skeletal remains]
+  * [Corpse]
+  * [EmbalmedCorpse Embalmed corpse]
