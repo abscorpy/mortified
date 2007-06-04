@@ -1,6 +1,5 @@
 #labels GameDesign,Stub
-
 Spells:
 
- * [FrostBite Frost Bite]
- * [WakeUpCall Wake Up Call]
+ * [Frostbite]
+ * [Spellbind]
