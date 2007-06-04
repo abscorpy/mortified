@@ -1,4 +1,4 @@
-#summary Undead soul
+#summary Disembodied soul
 #labels GameDesign
 
 A ghost is a soul that has left its body, usually because the body has
