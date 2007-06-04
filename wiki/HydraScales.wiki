@@ -1,2 +1,2 @@
-#summary Scales conferring some of the powers of a hydra
+#summary Scales conferring hydra traits
 #labels GameDesign,Stub
