@@ -8,5 +8,5 @@ zombie]. If the corpse has decayed into [SkeletalRemains skeletal remains], it
 becomes an [UndeadSkeleton undead skeleton] instead.
 
 Most ghosts are not determined or powerful enough to possess a corpse on their
-own. A necromancer can cast [WakeUpCall Wake Up Call] to bind a ghost to a
+own. A necromancer can cast [Spellbind] to bind a ghost to a
 corpse, turning it into a loyal undead servant.
