@@ -1,4 +1,5 @@
 #summary Corporal remains of a creature
+#labels GameDesign
 
 Remains:
 
