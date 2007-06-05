@@ -1,5 +1,5 @@
 #labels GameDesign,Stub
 Spells:
 
- * [Frostbite]
- * [Spellbind]
+  * [Deadlock]
+  * [Frostbite]
