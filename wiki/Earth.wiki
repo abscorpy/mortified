@@ -1,4 +1,4 @@
 #summary Element of solid matter
 #labels Stub,GameDesign
 
-Earth is the [Element element] of solid matter.
+Earth is the [Element element] of solid matter. It is also associated with bodies, corpses, and the undead.
