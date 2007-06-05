@@ -14,6 +14,6 @@ Elements:
 Derived elements:
 
   * [Body] = Water + Earth
-  * [Frost] = Wind + Water
+  * [Frost] = Air + Water
   * [Metal] = Earth + Fire
-  * [Spirit] = Wind + Fire
+  * [Spirit] = Air + Fire
