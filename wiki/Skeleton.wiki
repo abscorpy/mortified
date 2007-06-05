@@ -1,7 +1,4 @@
 #summary Disambiguation of skeleton
-#labels GameDesign,Disambiguation
+#labels GameDesign
 
-Disambiguation:
-
-  * [UndeadSkeleton Undead skeleton]
-  * [SkeletalRemains Skeletal remains]
+A skeleton is a completely rotted [Zombie zombie].
