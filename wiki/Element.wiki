@@ -1,12 +1,15 @@
-#summary Element
-#labels Stub,GameDesign
+#summary Aspect of nature
+#labels GameDesign
+
+The elements capture different aspects of nature.
 
 Primary elements:
 
-  * [Earth]
-  * [Fire]
-  * [Water]
-  * [Wind]
+|| *Element* || *Nature* || *Creature*            ||
+|| [Earth]   || Solids   || Skin, flesh, and bone ||
+|| [Water]   || Fluids   || Blood                 ||
+|| [Wind]    || Gases    || Breath and soul       ||
+|| [Fire]    || Energy   || Life                  ||
 
 Secondary elements:
 
