@@ -3,5 +3,5 @@
 
 See also:
 
-  * Elementalism
-  * Wizard
+  * [Elementalism]
+  * [Wizard]
