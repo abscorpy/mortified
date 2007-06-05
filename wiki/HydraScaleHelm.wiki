@@ -1,4 +1,4 @@
-#summary Helm for underwater breathing
+#summary Helm providing underwater breathing
 #labels GameDesign
 
-A [Helm helm] of [HydraScales hydra scales] providing the ability to breathe underwater.
+A [Helm helm] made of [HydraScales hydra scales] providing the ability to breathe underwater.
