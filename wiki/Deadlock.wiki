@@ -1,4 +1,8 @@
 #summary Binding spell
 #labels GameDesign
 
-A particle-based [Spell spell] that reanimates corpses. A time-decaying reanimation score is efficiently tracked for each corpse. When the score is sufficiently high, depending on the size and power of the corpse, the corpse is reanimated as a zombie. The particles cause the corpse to twitch as they are absorbed. The spell can also turn bone piles into skeletons. Zombies and skeletons are initially loyal to their reanimator.
+Deadlock is a [Necromancy necromantic] [Spell spell] of [Binding binding].
+
+When a corpse absorbs a binding particle, its binding power increases. Absorbing the particle causes the corpse to twitch and glow. The corpse enters a binding state when the binding power is sufficiently high considering the size of the corpse. While in the binding state, the corpse can attract and bind a nearby ghost to rise as an undead.
+
+The binding power of a corpse diminishes over time, potentially causing it to leave a previously entered binding state.
