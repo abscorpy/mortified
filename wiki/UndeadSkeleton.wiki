@@ -1,4 +1,0 @@
-#summary Reanimated skeletal remains.
-#labels Stub,GameDesign
-
-An undead skeleton is [Reanimation raised] from the [SkeletalRemains skeletal remains] of a [Creature creature].
