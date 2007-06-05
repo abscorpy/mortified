@@ -1,0 +1,4 @@
+#summary Element of gases
+#labels GameDesign
+
+Air is the [Element element] of gases. It is also associated with [Spirit spirits], [Soul souls] and [Ghost ghosts].
