@@ -1,0 +1,4 @@
+#summary Element of solid matter
+#labels Stub,GameDesign
+
+Earth is the [Element element] of solid matter.
