@@ -1,7 +1,7 @@
-#summary Aspect of nature
+#summary Fundamental essence
 #labels GameDesign
 
-The elements capture different aspects of nature.
+Each element captures a distinct, fundamental essence of nature.
 
 Primary elements:
 
