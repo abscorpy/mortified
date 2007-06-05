@@ -1,0 +1,4 @@
+#summary Spiritual entity
+#labels GameDesign
+
+The spirit [Element element] is a secondary element derived from [Air air] and [Fire fire]. Air represents heaven and fire represents hell. Spirits are generally aligned to either heaven or hell.
