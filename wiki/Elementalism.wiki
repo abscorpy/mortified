@@ -1,4 +1,4 @@
-#summary Magic school dealing with the elements
+#summary Magic school of the elements
 #labels GameDesign,Stub
 
 Elementalism is a [MagicSchool magic school] dealing with the [Element elements].
