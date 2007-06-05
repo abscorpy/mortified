@@ -1,8 +1,8 @@
 #summary Magic school of the elements
-#labels GameDesign,Stub
+#labels GameDesign
 
-Elementalism is a [MagicSchool magic school] dealing with the [Element elements].
+Elementalism is a [MagicSchool magic school] dealing with the [Element elements]. [Wizard Wizards] practicing elementalism are known as [Elementalist elementalists].
 
-See also:
+Spells:
 
-  * [Elementalist]
+  * [Frostbite]
