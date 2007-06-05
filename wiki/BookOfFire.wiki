@@ -1,0 +1,4 @@
+#summary Spellbook of fire elementalism
+#labels GameDesign
+
+The Book of Fire is a [Spellbook spellbook] containing [Spell spells] from the school of fire [Elementalism elementalism].
