@@ -1,0 +1,7 @@
+#summary Magic school
+#labels Stub,GameDesign
+
+Magic schools:
+
+  * [Elementalism]
+  * [Necromancy]
