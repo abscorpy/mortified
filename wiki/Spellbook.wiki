@@ -1,0 +1,7 @@
+#summary Collection of spells
+#labels GameDesign,Stub
+
+Spellbooks:
+
+  * [BookOfFire The Book of Fire]
+  * [BookOfTheDead The Book of the Dead]
