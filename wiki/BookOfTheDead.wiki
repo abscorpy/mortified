@@ -1,0 +1,4 @@
+#summary Spellbook of necromancy
+#labels GameDesign
+
+The Book of the Dead is a [Spellbook spellbook] containing [Spell spells] from the school of [Necromancy necromancy].
