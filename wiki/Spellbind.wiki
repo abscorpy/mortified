@@ -1,2 +1,4 @@
-#labels GameDesign
+#labels GameDesign,ToDo
 A particle-based [Spell spell] that reanimates corpses. A time-decaying reanimation score is efficiently tracked for each corpse. When the score is sufficiently high, depending on the size and power of the corpse, the corpse is reanimated as a zombie. The particles cause the corpse to twitch as they are absorbed. The spell can also turn bone piles into skeletons. Zombies and skeletons are initially loyal to their reanimator.
+
+[Rename to "Deadlock"?]
