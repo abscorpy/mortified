@@ -1,0 +1,4 @@
+#summary Embodied spirit
+#labels GameDesign
+
+A soul is a [Spirit spirit] residing in its own, natural, living [Body body]. When the body dies, the soul leaves it to become a [Ghost ghost].
