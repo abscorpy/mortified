@@ -3,15 +3,15 @@
 
 Each element captures a distinct, fundamental essence of nature.
 
-Primary elements:
+Elements:
 
 || *Element* || *Nature* || *Creature* ||
-|| [Wind]    || Gases    || Breath     ||
-|| [Water]   || Fluids   || Blood      ||
-|| [Earth]   || Solids   || Flesh      ||
-|| [Fire]    || Energy   || Life       ||
+|| [Air]     ||  Gases   ||  Breath    ||
+|| [Water]   ||  Fluids  ||  Blood     ||
+|| [Earth]   ||  Solids  ||  Flesh     ||
+|| [Fire]    ||  Energy  ||  Life      ||
 
-Secondary elements:
+Derived elements:
 
   * [Body] = Water + Earth
   * [Frost] = Wind + Water
