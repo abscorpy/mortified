@@ -1,0 +1,7 @@
+#summary Wizard practicing elementalism
+#labels GameDesign,Stub
+
+See also:
+
+  * Elementalism
+  * Wizard
