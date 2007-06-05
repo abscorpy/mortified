@@ -1,0 +1,4 @@
+#summary Element of energy
+#labels GameDesign
+
+Fire is the [Element element] of energy.
