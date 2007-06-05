@@ -14,6 +14,6 @@ Primary elements:
 Secondary elements:
 
   * [Body] = Water + Earth
-  * [Ice] = Wind + Water
+  * [Frost] = Wind + Water
   * [Metal] = Earth + Fire
   * [Soul] = Wind + Fire
