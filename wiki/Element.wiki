@@ -5,12 +5,15 @@ The elements capture different aspects of nature.
 
 Primary elements:
 
-|| *Element* || *Nature* || *Body* ||
-|| [Wind]    || Gases    || Breath ||
-|| [Water]   || Fluids   || Blood  ||
-|| [Earth]   || Solids   || Flesh  ||
-|| [Fire]    || Energy   || Life   ||
+|| *Element* || *Nature* || *Creature* ||
+|| [Wind]    || Gases    || Breath     ||
+|| [Water]   || Fluids   || Blood      ||
+|| [Earth]   || Solids   || Flesh      ||
+|| [Fire]    || Energy   || Life       ||
 
 Secondary elements:
 
-  * [Ice]
+  * [Body] = Water + Earth
+  * [Ice] = Wind + Water
+  * [Metal] = Earth + Fire
+  * [Soul] = Wind + Fire
