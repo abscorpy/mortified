@@ -16,4 +16,4 @@ Secondary elements:
   * [Body] = Water + Earth
   * [Frost] = Wind + Water
   * [Metal] = Earth + Fire
-  * [Soul] = Wind + Fire
+  * [Spirit] = Wind + Fire
