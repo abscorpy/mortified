@@ -1,0 +1,13 @@
+#summary Element
+#labels Stub,GameDesign
+
+Primary elements:
+
+  * [Earth]
+  * [Fire]
+  * [Water]
+  * [Wind]
+
+Secondary elements:
+
+  * [Ice]
