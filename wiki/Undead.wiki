@@ -1,8 +1,12 @@
 #labels GameDesign
 The undead are [Creature creatures] that live on after death.
 
+|| *Undead*   || *Weakness*       ||
+|| [Skeleton] ||  Blunt attacks   ||
+|| [Zombie]   ||  Decay           ||
+|| [Mummy]    ||  Fire            ||
+|| [Vampire]  ||  Pointed attacks ||
+
 See also:
- * [Ghost]
- * [Mummy]
- * [Skeleton]
- * [Zombie]
+
+  * [Ghost]
