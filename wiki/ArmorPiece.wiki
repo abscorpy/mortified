@@ -1,9 +1,13 @@
-#summary Protects a part of the body
+#summary Protection for a body part
 #labels GameDesign,Stub
 
-See also:
+Armor pieces:
+
   * [BodyArmor Body armor]
   * [Boots]
-  * [Cloak]
   * [Gloves]
   * [Helm]
+
+See also:
+
+  * [Cloak]
