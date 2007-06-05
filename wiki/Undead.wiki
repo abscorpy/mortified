@@ -3,11 +3,11 @@ The undead are [Creature creatures] that live on after death.
 
 Corporeal undead:
 
-|| *Undead*   || *Weakness*                    ||
-|| [Skeleton] ||  Blunt attacks                ||
-|| [Zombie]   ||  Decay                        ||
-|| [Mummy]    ||  Fire                         ||
-|| [Vampire]  ||  Pointed attacks (impalement) ||
+|| *Undead*   || *Defensive strengths * || *Defensive weaknesses*        ||
+|| [Skeleton] ||  Pointed attacks       ||  Blunt attacks                ||
+|| [Zombie]   ||                        ||  Decay                        ||
+|| [Mummy]    ||                        ||  Fire                         ||
+|| [Vampire]  ||                        ||  Pointed attacks (impalement) ||
 
 Spiritual undead:
 
