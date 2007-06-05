@@ -1,2 +1,4 @@
+#summary Undead corpse
 #labels GameDesign
-A zombie is an [Undead undead] [Corpse corpse]. Zombies decay over time, becoming [Skeleton skeletons] when completely decayed.
+
+A zombie is an [Undead undead] [Corpse corpse] that rots over time. A completely rotten zombie is called a [Skeleton skeleton]. A zombie can be mummified to prevent further rotting. A mummified zombie is called a [Mummy mummy].
