@@ -1,4 +1,0 @@
-#summary Element of gases
-#labels GameDesign
-
-Wind is the [Element element] of gases. It is also associated with [Spirit spirits], [Soul souls] and [Ghost ghosts].
