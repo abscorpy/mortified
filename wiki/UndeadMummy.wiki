@@ -1,0 +1,6 @@
+#summary Mummified undead
+#labels GameDesign
+
+Mummies are [Undead undead] that have been [Mummification mummified] to prevent them from rotting. They are made by either [Reanimation raising] [MummifiedCorpse mummified mummified corpses] or mummifying [Zombie zombies].
+
+Mummies are considerably stronger than zombies. Their greatest weakness is fire. In fact, their chemical treatment and wrapping make them burn like torches.
