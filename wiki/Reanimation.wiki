@@ -1,5 +1,5 @@
 #labels Stub,GameDesign
 || *[Remains]* || *[Undead]* ||
-|| [SkeletalRemains Skeletal remains] || [Skeleton] ||
+|| [SkeletalCorpse Skeletal corpse] || [UndeadSkeleton Undead skeleton] ||
 || [Corpse] || [Zombie] ||
-|| [EmbalmedCorpse Embalmed corpse] || [Mummy] ||
+|| [MummifiedCorpse Mummified corpse] || [UndeadMummy Undead mummy] ||
