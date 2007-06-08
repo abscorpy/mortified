@@ -1,4 +1,6 @@
+#summary Manifestation of magic
 #labels GameDesign,Stub
+
 Spells:
 
   * [Deadlock]
