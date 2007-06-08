@@ -1,4 +1,6 @@
+#summary Reanimated creature
 #labels GameDesign
+
 The undead are [Creature creatures] that live on after death.
 
 Corporeal undead:
@@ -12,5 +14,4 @@ Corporeal undead:
 Spiritual undead:
 
   * [Ghost]
-
 
