@@ -1,8 +1,0 @@
-#summary Corporal remains of a creature
-#labels GameDesign
-
-Remains:
-
-  * [SkeletalRemains Skeletal remains]
-  * [Corpse]
-  * [EmbalmedCorpse Embalmed corpse]
