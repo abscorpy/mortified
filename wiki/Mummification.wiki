@@ -2,4 +2,4 @@
 #labels GameDesign
 
 Mummifying a [Corpse corpse] prevents it from rotting further. The treatment
-must be carried out in a [Workshop workshop] and requires [SpiderSilk spider silk] for wrapping the corpse afterwards. A [Zombie zombie] can be embalmed to make a [Mummy mummy].
+must be carried out in a [Workshop workshop] and requires [SpiderSilk spider silk] for wrapping the [MummifiedCorpse mummified corpse]. A [Zombie zombie] can be mummified to make an [UndeadMummy undead mummy].
