@@ -1,0 +1,4 @@
+#summary Corpse treated against rotting
+#labels GameDesign
+
+Corpses can be [Mummification mummified] to prevent them from rotting. As an unwanted side effect of the mummification, mummies are highly flammable. A mummified corpse can be [Reanimation raised] as an [UndeadMummy undead mummy].
