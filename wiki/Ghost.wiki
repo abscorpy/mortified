@@ -3,7 +3,7 @@
 
 A ghost is a soul that has left its body, usually because the body has
 died. Most ghosts do not stay around for long before they leave for the sky or
-the earth. A ghost can possess a [Corpse corpse], turning it into a [Zombie zombie]. If the corpse has decayed into [SkeletalRemains skeletal remains], it
+the earth. A ghost can possess a [Corpse corpse], turning it into a [Zombie zombie]. If the corpse has decayed into a [SkeletalCorpse skeleton], it
 becomes an [UndeadSkeleton undead skeleton] instead.
 
 Most ghosts are not determined or powerful enough to possess a corpse on their
