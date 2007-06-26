@@ -1,5 +1,5 @@
 #summary Disambiguation of mummy
-#labels GameDesign
+#labels GameDesign,Disambiguation
 
 Disambiguation:
 
