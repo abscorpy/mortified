@@ -4,7 +4,6 @@
 A particle-based [Spell spell] that freezes its target. The ice particles can
 also form a slippery ice coating on surfaces, though the amount of ice created
 by the spell is very small. The spell can be directed at a body of water to
-create much greater quantities of ice in the form of floating [IceBlock ice
-blocks]. If an entire body of water is frozen, an [IceElemental ice elemental] is
+create much greater quantities of ice in the form of floating [IceBlock ice blocks]. If an entire body of water is frozen, an [IceElemental ice elemental] is
 created. Ice particles become [SnowFlake snow flakes] when their speed is
 sufficiently low.
