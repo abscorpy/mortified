@@ -1,0 +1,3 @@
+The catacombs form a tunnel system connecting every corner of the world. The
+catacombs are accessed through crypts that must be opened from the outside
+before they can be used as entries and exits.

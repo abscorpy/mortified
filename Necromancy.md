@@ -1,0 +1,1 @@
+Necromancy is a school of [magic](Magic.md) dealing with the dead. It is generally considered evil and forbidden. [Wizards](Wizard.md) practicing necromancy are called [necromancers](Necromancer.md).

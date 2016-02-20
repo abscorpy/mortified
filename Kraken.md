@@ -1,0 +1,1 @@
+An underwater, many-armed, squid-like, ink-firing [boss](Boss.md). The kraken spawns miniature versions of itself. The hero kills it by severing all arms. (The severed arms bleed, attracting sharks?) The [arena](Arena.md) is near a shore or on the bottom of the sea. The arena could contain a shipwreck. The kraken tears down platforms and throws boulders with its arms.

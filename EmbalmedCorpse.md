@@ -1,0 +1,1 @@
+An embalmed corpse can be [raised](Reanimation.md) as a [mummy](Mummy.md).

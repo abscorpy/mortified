@@ -1,0 +1,1 @@
+Mortified is a 2D platform RPG featuring physics simulation and vector graphics. The player controls a dwarf wizard unveiling a conspiracy.

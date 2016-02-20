@@ -1,0 +1,1 @@
+The Book of the Dead is a [spellbook](Spellbook.md) containing [spells](Spell.md) from the school of [necromancy](Necromancy.md).

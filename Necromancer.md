@@ -1,0 +1,1 @@
+A [wizard](Wizard.md) skilled in the art of [necromancy](Necromancy.md).

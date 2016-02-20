@@ -1,0 +1,2 @@
+A long-range missile weapon that fires focused clusters of spell particles with
+great accuracy. It is fitted with a bayonet for close-range attacks.

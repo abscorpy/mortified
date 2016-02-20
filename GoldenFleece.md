@@ -1,0 +1,1 @@
+A cloak that makes the wearer heal faster.

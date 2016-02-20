@@ -1,0 +1,1 @@
+This body armor is made of dragon scales. It protects against fire.

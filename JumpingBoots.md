@@ -1,0 +1,1 @@
+A pair of boots that cause the wearer to jump higher and longer.

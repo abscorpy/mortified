@@ -1,0 +1,1 @@
+These boots are forged from hydra scales. They make the wearer swim faster.

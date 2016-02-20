@@ -1,0 +1,1 @@
+Corpses can be [mummified](Mummification.md) to prevent them from rotting. As an unwanted side effect of the mummification, mummies are highly flammable. A mummified corpse can be [raised](Reanimation.md) as an [undead mummy](UndeadMummy.md).

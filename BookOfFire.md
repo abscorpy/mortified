@@ -1,0 +1,1 @@
+The Book of Fire is a [spellbook](Spellbook.md) containing [spells](Spell.md) from the school of fire [elementalism](Elementalism.md).

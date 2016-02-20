@@ -1,0 +1,3 @@
+Deadlock is a [necromantic](Necromancy.md) [spell](Spell.md) of [binding](Binding.md).
+
+Absorbing a binding particle causes a corpse to twitch and glow as its binding power grows. Once the binding power is sufficiently high, the corpse enters a binding state where it attempts to attract and bind a nearby ghost to rise as an undead. The binding power diminishes over time, potentially causing the corpse to leave the binding state.

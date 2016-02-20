@@ -1,0 +1,1 @@
+Air is the [element](Element.md) of gases. It is also associated with [spirits](Spirit.md), [souls](Soul.md) and [ghosts](Ghost.md).

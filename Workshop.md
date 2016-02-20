@@ -1,0 +1,3 @@
+A small workshop with a furnace, an anvil, and some other handy equipment. The
+hero can create special items here as long as he has the required parts or
+ingredients.

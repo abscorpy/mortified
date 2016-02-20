@@ -1,0 +1,1 @@
+A zombie is an [undead](Undead.md) [corpse](Corpse.md) that rots over time. A completely rotten zombie is called a [skeleton](Skeleton.md). A zombie can be [mummified](Mummification.md) to prevent further rotting. A mummified zombie is called a [mummy](Mummy.md).

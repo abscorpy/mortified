@@ -1,0 +1,2 @@
+Mummifying a [corpse](Corpse.md) prevents it from rotting further. The treatment
+must be carried out in a [workshop](Workshop.md) and requires [spider silk](SpiderSilk.md) for wrapping the [mummified corpse](MummifiedCorpse.md). A [zombie](Zombie.md) can be mummified to make an [undead mummy](UndeadMummy.md).

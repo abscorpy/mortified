@@ -1,0 +1,2 @@
+A short-range missile weapon that fires spread bursts of spell particles. It is
+fitted with a bayonet for close-range attacks.

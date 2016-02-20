@@ -1,0 +1,1 @@
+The Crimson Order is an ancient secret society based in the catacombs.

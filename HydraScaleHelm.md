@@ -1,0 +1,1 @@
+A [helm](Helm.md) made of [hydra scales](HydraScales.md) providing the ability to breathe underwater.

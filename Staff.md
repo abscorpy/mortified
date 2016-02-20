@@ -1,0 +1,3 @@
+A powerful staff that amplifies and [channels](Channeling.md) magic as a narrow
+beam. It is hooked like a swineherd staff, allowing its wielder to swing from
+ledges, branches, and similar.

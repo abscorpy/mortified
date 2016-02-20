@@ -1,0 +1,1 @@
+Earth is the [element](Element.md) of solid matter. It is also associated with bodies, both living and dead.

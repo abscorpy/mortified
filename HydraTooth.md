@@ -1,0 +1,1 @@
+This item can be buried at a graveyard to raise a skeleton.

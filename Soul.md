@@ -1,0 +1,1 @@
+A soul is a [spirit](Spirit.md) residing in its own, natural, living [body](Body.md). When the body dies, the soul leaves it to become a [ghost](Ghost.md).

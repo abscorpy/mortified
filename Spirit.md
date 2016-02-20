@@ -1,0 +1,1 @@
+The spirit [element](Element.md) is a secondary element derived from [air](Air.md) and [fire](Fire.md). Air represents heaven and fire represents hell. Spirits are generally aligned to either heaven or hell.
